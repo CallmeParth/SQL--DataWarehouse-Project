@@ -2,7 +2,7 @@
 
 Welcome to **Data Warehouse and Analytics Project** Repositry ! 🚀
 
-This project demonstrates a comprehensive data warehousing soltion, from building a data warehouse to providing useful business insights which helps achieves business goals. Designed as portfolio project, it highlights industry best practices in data warehouse and analytics.
+This project demonstrates a comprehensive data warehousing solution, from building a data warehouse to providing useful business insights which helps achieves business goals. Designed as portfolio project, it highlights industry best practices in data warehouse and analytics.
 
 ----
 
